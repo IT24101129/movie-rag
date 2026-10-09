@@ -1,0 +1,16 @@
+# Data files (too large for GitHub)
+data/tmdb_5000_movies.csv
+data/tmdb_5000_credits.csv
+data/movie_embeddings.npy
+data/movie_index.faiss
+
+# Python cache
+__pycache__/
+*.pyc
+.env
+
+# HuggingFace cache
+.cache/
+
+# VS Code
+.vscode/
