@@ -56,6 +56,6 @@ python notebooks/05_search.py
 - [x] Custom mood-based enrichment
 - [x] Semantic embeddings (all-MiniLM-L6-v2)
 - [x] FAISS vector index
-- [x] Semantic search function
+- [ ] Semantic search function
 - [ ] Claude API integration
 - [ ] Streamlit UI
